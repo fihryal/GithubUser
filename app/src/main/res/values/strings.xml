@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubUser</string>
+    <string name="detail_toolbar">Detail</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="favorite">Favorite</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="setting">Setting</string>
+</resources>
